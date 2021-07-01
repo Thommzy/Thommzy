@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img src="https://miro.medium.com/max/1838/1*6yL98XP0QEvViPqnx_F4uQ.png" alt="drawing" style="width:20px;"/>
+![alt text](https://miro.medium.com/max/1838/1*6yL98XP0QEvViPqnx_F4uQ.png =100x100)
 
 <br />
 <br />
