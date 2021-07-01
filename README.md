@@ -14,8 +14,10 @@
 
 ### Languages and Tools:
 
-<img src="https://miro.medium.com/max/1838/1*6yL98XP0QEvViPqnx_F4uQ.png" width="100">
-//![alt text](https://miro.medium.com/max/1838/1*6yL98XP0QEvViPqnx_F4uQ.png =100x100)
+<img src="https://mpng.subpng.com/20180619/wfr/kisspng-swift-apple-logo-objective-c-5b28a6c3713139.5003729715293907874637.jpg" width="70">
+<img src="https://toppng.com/uploads/preview/apple-logo-black-rounded-png-image-apple-png-transparent-logo-11562980861z576l4liuc.png" width="70">
+
+<img src="https://p.kindpng.com/picc/s/355-3557482_flutter-logo-png-transparent-png.png" width="70">
 
 <br />
 <br />
