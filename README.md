@@ -15,11 +15,8 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Swift" width="26px" src="https://mpng.subpng.com/20180619/wfr/kisspng-swift-apple-logo-objective-c-5b28a6c3713139.5003729715293907874637.jpg" />][linkedin]
-
-<!-- <img src="https://mpng.subpng.com/20180619/wfr/kisspng-swift-apple-logo-objective-c-5b28a6c3713139.5003729715293907874637.jpg" width="70">
-<img src="https://toppng.com/uploads/preview/apple-logo-black-rounded-png-image-apple-png-transparent-logo-11562980861z576l4liuc.png" width="70">
-
-<img src="https://p.kindpng.com/picc/s/355-3557482_flutter-logo-png-transparent-png.png" width="70"> -->
+[<img align="left" alt="iPhones" width="26px" src="https://toppng.com/uploads/preview/apple-logo-black-rounded-png-image-apple-png-transparent-logo-11562980861z576l4liuc.png" />][linkedin]
+[<img align="left" alt="Flutter" width="26px" src="https://p.kindpng.com/picc/s/355-3557482_flutter-logo-png-transparent-png.png" />][linkedin]
 
 <br />
 <br />
