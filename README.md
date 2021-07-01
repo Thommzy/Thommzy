@@ -1,7 +1,5 @@
 ### Hi there, I'm Obeisun Timothy - aka [Thommzy]👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## iOS Dev ⚡!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -16,7 +14,7 @@
 
 ### Languages and Tools:
 
-![alt text](https://miro.medium.com/max/1838/1*6yL98XP0QEvViPqnx_F4uQ.png)
+<img src="https://miro.medium.com/max/1838/1*6yL98XP0QEvViPqnx_F4uQ.png" alt="drawing" style="width:200px;"/>
 
 <br />
 <br />
