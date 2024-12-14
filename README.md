@@ -32,4 +32,4 @@
 
 [twitter]: https://twitter.com/thommzy
 [instagram]: https://instagram.com/tomcodes__
-[linkedin]: [https://www.linkedin.com/in/obeisun-timothy-91758a149/](https://www.linkedin.com/in/tobeisun/)
+[linkedin]: https://www.linkedin.com/in/tobeisun/
