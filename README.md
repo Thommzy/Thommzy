@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey there! I'm Obeisun Timothy 👋
+# Hey there! I'm Timothy 👋
 ### aka Thommzy
 
 **Senior iOS Engineer | Mobile Developer | Go Backend Enthusiast**
