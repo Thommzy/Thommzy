@@ -71,18 +71,6 @@ Beyond mobile engineering, I'm expanding into **backend development with Go and 
 
 ---
 
-## 🚀 What I'm Working On
-
-### 🌿 Ginger — Lifestyle Application
-
-A lifestyle application focused on helping people manage their goals, routines, and personal growth.
-
-**Mobile:** SwiftUI, Clean Architecture, Swift Package Manager
-
-**Backend:** Go, PostgreSQL, REST APIs, JWT Authentication
-
-**Features:** Authentication, Email Verification, Password Recovery, Session Management
-
 ### 🧩 Engineering Interests
 
 - Building scalable iOS applications
