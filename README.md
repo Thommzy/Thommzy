@@ -1,35 +1,137 @@
-### Hi there, I'm Obeisun Timothy - aka [Thommzy]👋
 
-## iOS Dev ⚡!!
+<div align="center">
 
-- 🌱 I’m currently learning everything 🤣
+# Hey there! I'm Obeisun Timothy 👋
+### aka Thommzy
 
-### Connect with me:
+**Senior iOS Engineer | Mobile Developer | Go Backend Enthusiast**
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Building delightful mobile experiences and exploring the world of backend engineering.
 
-<br />
+[![GitHub](https://img.shields.io/badge/GitHub-Thommzy-181717?style=for-the-badge&logo=github)](https://github.com/Thommzy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobeisun/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/thommzy)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tomcodes__)
 
-### Languages and Tools:
+</div>
 
-[<img align="left" alt="Swift" width="26px" src="https://mpng.subpng.com/20180619/wfr/kisspng-swift-apple-logo-objective-c-5b28a6c3713139.5003729715293907874637.jpg" />][linkedin]
-[<img align="left" alt="iPhones" width="26px" src="https://toppng.com/uploads/preview/apple-logo-black-rounded-png-image-apple-png-transparent-logo-11562980861z576l4liuc.png" />][linkedin]
-[<img align="left" alt="Flutter" width="26px" src="https://p.kindpng.com/picc/s/355-3557482_flutter-logo-png-transparent-png.png" />][linkedin]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
+---
 
-<br />
-<br />
+## 👨‍💻 About Me
 
-[twitter]: https://twitter.com/thommzy
-[instagram]: https://instagram.com/tomcodes__
-[linkedin]: https://www.linkedin.com/in/tobeisun/
+I'm a software engineer passionate about building reliable, scalable, and user-friendly applications.
+
+My primary focus is **iOS development**, where I work with Swift, SwiftUI, and UIKit to deliver polished mobile experiences.
+
+Beyond mobile engineering, I'm expanding into **backend development with Go and PostgreSQL**, building APIs and exploring system architecture.
+
+- 📱 Building native iOS applications with **Swift, SwiftUI & UIKit**
+- 🛠️ Developing backend services using **Go & PostgreSQL**
+- 🏗️ Interested in **Clean Architecture, MVVM, SOLID & scalable systems**
+- 🚀 Exploring modern mobile and backend technologies
+- 🌱 Always learning, always building
+- 💬 Ask me about **iOS development, Swift, SwiftUI, or mobile architecture**
+- ⚡ Fun fact: There's always something new to learn in software engineering!
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,firebase" />
+</p>
+
+**Swift · SwiftUI · UIKit · Combine · Flutter · Dart · Kotlin · Firebase**
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,postgres,postman" />
+</p>
+
+**Go (Golang) · PostgreSQL · REST APIs · JWT Authentication · SQL**
+
+### 💻 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,apple,bash" />
+</p>
+
+**Xcode · Git · GitHub · GitHub Actions · VS Code · Terminal · Postman**
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,sass" />
+</p>
+
+**HTML5 · CSS3 · JavaScript · React · Sass**
+
+---
+
+## 🚀 What I'm Working On
+
+### 🌿 Ginger — Lifestyle Application
+
+A lifestyle application focused on helping people manage their goals, routines, and personal growth.
+
+**Mobile:** SwiftUI, Clean Architecture, Swift Package Manager
+
+**Backend:** Go, PostgreSQL, REST APIs, JWT Authentication
+
+**Features:** Authentication, Email Verification, Password Recovery, Session Management
+
+### 🧩 Engineering Interests
+
+- Building scalable iOS applications
+- Modernizing UIKit applications with SwiftUI
+- Designing reusable components and design systems
+- Building secure backend APIs with Go
+- Improving code quality, testing, and CI/CD
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thommzy&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thommzy&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+> GitHub language statistics reflect repository code, not overall engineering proficiency.
+
+---
+
+## 🔥 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Thommzy&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with engineers, sharing ideas, and discussing interesting projects.
+
+- 💼 **LinkedIn:** [linkedin.com/in/tobeisun](https://www.linkedin.com/in/tobeisun/)
+- 🐦 **Twitter/X:** [@thommzy](https://twitter.com/thommzy)
+- 📸 **Instagram:** [@tomcodes__](https://instagram.com/tomcodes__)
+- 💻 **GitHub:** [@Thommzy](https://github.com/Thommzy)
+
+---
+
+<div align="center">
+
+### 💡 "Keep learning. Keep building. Keep improving."
+
+Thanks for stopping by! ⭐
+
+</div>
